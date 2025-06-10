@@ -1,0 +1,52 @@
+"Customer Experience Analysis of Mobile Banking Apps in Ethiopia"
+
+1. Executive Summary
+•	Purpose of the analysis
+•	High-level insights across CBE, BOA, and Dashen
+•	Key drivers and pain points summarized
+
+2. Comparative Analysis: Sentiment & Ratings
+•	 Inserted Plots:
+o	Sentiment Distribution by Bank
+ 
+
+
+
+o	Rating Distribution by Bank
+ 
+________________________________________
+3. Bank-Specific Insights
+CBE (Commercial Bank of Ethiopia)
+•	Driver: Proactive functionality
+o	“the app is proactive and a good connections.”
+•	Pain Point: Lack of international-standard features
+o	“Why don’t your ATMs support account-to-account transfers like Kenya?”
+BOA (Bank of Abyssinia)
+•	Driver: Smooth and stable UX
+o	“exceptional… easy to use”
+•	Pain Point: Bugs and crashes
+o	“BoaMobile closed because this app has a bug.”
+Dashen Bank
+•	Driver: Easy and secure usage
+o	“ቀላልና ድህነቱ የተጠበቀ ነው።”
+•	Pain Point: Access & usage restrictions
+o	“Not allowed to log in at certain times.”
+________________________________________
+4. Thematic Visualization
+•	Word Clouds (CBE)
+ 
+•	Word Clouds (BOA)
+ 
+•	Word Clouds (Dashen)
+ 
+
+
+5 Recommendations
+•	CBE: Add budgeting, enable account transfers, improve UX.
+•	BOA: Address bugs and refine login process.
+•	Dashen: Remove usage restrictions; support multitasking.
+6. Ethical Considerations
+•	Negative bias in reviews.
+•	Language & translation may skew meaning.
+•	Recency effect due to app updates.
+
